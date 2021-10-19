@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wujilong@10.252.90.55:22">
+    <serverData>
+      <paths name="wujilong@10.252.90.55:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/wujilong/code/multi-label" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wujilong@10.252.90.55:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/wujilong/code/multi-label" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
